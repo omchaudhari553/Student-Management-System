@@ -1,4 +1,4 @@
-# 🎓🎓🎓 STUDENT MANAGEMENT SYSTEM 🎓🎓🎓
+# STUDENT MANAGEMENT SYSTEM
 
 <!-- BADGES START -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
